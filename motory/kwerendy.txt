@@ -1,0 +1,7 @@
+Zapytanie 1: SELECT nazwa FROM `wycieczki` WHERE poczatek='Wieliczka' OR poczatek='Muszyna'; 
+
+Zapytanie 2: SELECT wycieczki.nazwa, wycieczki.opis, wycieczki.poczatek, zdjecia.zrodlo FROM wycieczki, zdjecia; 
+
+Zapytanie 3: SELECT COUNT(*) FROM `wycieczki`; 
+
+Zapytanie 4: ALTER TABLE wycieczki ADD COLUMN ocena INT; 
