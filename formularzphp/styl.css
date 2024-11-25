@@ -1,0 +1,26 @@
+body {
+    background-color: seagreen;
+    font-size: x-large;
+}
+
+header {
+    background-color: black;
+    color: white;
+    width: 26%;
+    text-align: center;
+}
+
+main {
+    width: 100%;
+}
+
+.left {
+    width: 15%;
+}
+
+.right {
+    width: 85%;
+}
+
+table {
+}
